@@ -1,0 +1,10 @@
+# 测试结果文件
+latency_results_*.txt
+
+# 临时文件
+*.tmp
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
