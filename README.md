@@ -6,7 +6,7 @@
 
 ### 一键运行
 ```bash
-wget https://raw.githubusercontent.com/Cd1s/network-latency-tester/main/latency.sh
+wget https://raw.githubusercontent.com/iniwex5/network-latency-tester/main/latency.sh
 chmod +x latency.sh
 ./latency.sh
 ```
