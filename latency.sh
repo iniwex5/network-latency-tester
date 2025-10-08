@@ -50,6 +50,12 @@ declare -A FULL_SITES=(
     ["YouTube"]="youtube.com"
     ["Facebook"]="facebook.com"
     ["TikTok"]="tiktok.com"
+    ["Bybit"]="bybit.com"
+    ["Binance"]="binance.com"
+    ["OKX"]="okx.com"
+    ["Baidu"]="baidu.com"
+    ["QQ"]="qq.com"
+    ["Douyin"]="douyin.com"
 )
 
 # 结果数组
